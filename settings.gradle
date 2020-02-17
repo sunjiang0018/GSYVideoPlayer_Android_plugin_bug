@@ -1,0 +1,2 @@
+include ':app', ':gsyvideoplayer_plugin'
+

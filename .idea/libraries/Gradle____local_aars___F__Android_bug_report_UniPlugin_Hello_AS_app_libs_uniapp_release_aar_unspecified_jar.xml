@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:F.\Android_bug_report\UniPlugin-Hello-AS\app\libs\uniapp-release.aar:unspecified@jar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/155315de8b2a2a5d7acd7b8bc201d044/jetified-uniapp-release/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/155315de8b2a2a5d7acd7b8bc201d044/jetified-uniapp-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/155315de8b2a2a5d7acd7b8bc201d044/jetified-uniapp-release/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/155315de8b2a2a5d7acd7b8bc201d044/jetified-uniapp-release/jars/libs/bindingx-core-1.0.9.6.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/155315de8b2a2a5d7acd7b8bc201d044/jetified-uniapp-release/jars/libs/bindingx_weex_plugin-1.0.9.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
